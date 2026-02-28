@@ -1,4 +1,4 @@
-# Autores / Desenvolvedores
+# Autores 
 Projeto desenvolvido como parte do conceito da disciplina Teoria da Computação:
 
 Gabriel Rosa Batista
