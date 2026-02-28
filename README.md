@@ -2,7 +2,9 @@
 Projeto desenvolvido como parte do conceito da disciplina Teoria da Computação:
 
 Gabriel Rosa Batista
+
 Hisashi Muniz Kamizono
+
 Leon Matheus Oliveira Alves
 
 # Trabalho-Teoria-da-computa-o
